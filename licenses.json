@@ -1,0 +1,12 @@
+[
+  {
+    "username": "test",
+    "key": "4282e2ee3c9145f7264ae439bd4cddff22b08f05bd2c2be94488c15aa86c51a",
+    "expiration": "2025-12-31"
+  },
+  {
+    "username": "Bob",
+    "key": "1F4C8B8A9B8E3F4D2A9B3C8D7E6F5A4B3C2D1E0F9A8B7C6D5E4F3A2B1C0D9E8F",
+    "expiration": "2023-11-30"
+  }
+]
